@@ -9,6 +9,7 @@
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_back_wall</sprite>
+    <sprite>sprites\spr_top_ground</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -18,6 +19,7 @@
     <object>objects\obj_player</object>
     <object>objects\obj_wall</object>
     <object>objects\obj_back_wall</object>
+    <object>objects\obj_top_ground</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_TEST</room>
