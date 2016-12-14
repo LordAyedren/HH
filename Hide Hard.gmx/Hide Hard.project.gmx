@@ -8,8 +8,15 @@
   <sprites name="sprites">
     <sprite>sprites\spr_player</sprite>
     <sprite>sprites\spr_wall</sprite>
-    <sprite>sprites\spr_back_wall</sprite>
+    <sprite>sprites\spr_bottom_floor</sprite>
     <sprite>sprites\spr_top_ground</sprite>
+    <sprite>sprites\sprite4</sprite>
+    <sprite>sprites\spr_guard</sprite>
+    <sprite>sprites\spr_middle_wall</sprite>
+    <sprite>sprites\spr_bottom_wall</sprite>
+    <sprite>sprites\spr_top_wall</sprite>
+    <sprite>sprites\spr_small_window</sprite>
+    <sprite>sprites\spr_top_floor</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -18,8 +25,14 @@
   <objects name="objects">
     <object>objects\obj_player</object>
     <object>objects\obj_wall</object>
-    <object>objects\obj_back_wall</object>
+    <object>objects\obj_bottom_floor</object>
     <object>objects\obj_top_ground</object>
+    <object>objects\obj_guard</object>
+    <object>objects\obj_middle_wall</object>
+    <object>objects\obj_top_wall</object>
+    <object>objects\obj_bottom_wall</object>
+    <object>objects\obj_small_window</object>
+    <object>objects\obj_top_floor</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_TEST</room>
